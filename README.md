@@ -61,7 +61,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-white?style=plastic&logo=gitlab)
 ![Tortoise SVN](https://img.shields.io/badge/-Tortoise_SVN-white?style=plastic&logo=subversion)
 
-[![Top Langs](https://github-readme-stats-git-master-jhonnymarcelo.vercel.app/api/top-langs/?username=jhonnysmarcelo)](https://github.com/JhonnySMarcelo/github-readme-stats)
+<!-- ![Top Langs](https://github-readme-stats-git-master-jhonnymarcelo.vercel.app/api/top-langs/?username=JhonnySMarcelo) -->
 
 ## 📫 How to Reach Me
 
