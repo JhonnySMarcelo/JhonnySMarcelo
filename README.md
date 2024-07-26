@@ -1,7 +1,8 @@
 # Hello! I'm Jhonny <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<p>I'm a passionate FullStack Developer based in <img src="https://cdn-icons-png.flaticon.com/128/3909/3909370.png" width="13"/> São Paulo, Brazil, with 6+ years of expertise, specializing in back-end development using .NET technologies and front-end using Angular.</p>
 
-I'm a passionate FullStack Developer based in <img src="https://cdn-icons-png.flaticon.com/128/3909/3909370.png" width="13"/> São Paulo, Brazil, with 6+ years of expertise, specializing in back-end development using .NET technologies and front-end using Angular.
-
+---
+  
 [![](https://visitcount.itsvg.in/api?id=JhonnyMarcelo&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
@@ -19,10 +20,10 @@ I'm a passionate FullStack Developer based in <img src="https://cdn-icons-png.fl
 ![.NET Core](https://img.shields.io/badge/-Core_(1,_2,_3.1)-512BD4?style=plastic&logo=dotnet)
 ![.NET](https://img.shields.io/badge/-.NET_(5,_6)-512BD4?style=plastic&logo=dotnet)
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET_MVC-512BD4?style=plastic&logo=dotnet)
+![Angular](https://img.shields.io/badge/-Angular_(7,_12)-DD0031?style=plastic&logo=angular)
 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-black?style=plastic&logo=nuget)
 ![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-black?style=plastic&logo=nuget)
 ![Dapper](https://img.shields.io/badge/-Dapper-black?style=plastic&logo=nuget)
-![Angular](https://img.shields.io/badge/-Angular_(7,_12)-DD0031?style=plastic&logo=angular)
 ![Ajax](https://img.shields.io/badge/-Ajax-005571?style=plastic&logo=jquery)
 
 ### Database Tools
@@ -60,7 +61,7 @@ I'm a passionate FullStack Developer based in <img src="https://cdn-icons-png.fl
 ![GitLab](https://img.shields.io/badge/-GitLab-white?style=plastic&logo=gitlab)
 ![Tortoise SVN](https://img.shields.io/badge/-Tortoise_SVN-white?style=plastic&logo=subversion)
 
-[![Top Langs](https://github-readme-stats-jhonnymarcelo.vercel.app/api/top-langs/?username=jhonnysmarcelo)](https://github.com/JhonnySMarcelo/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-jhonnymarcelo.vercel.app/api/top-langs/?username=jhonnysmarcelo)](https://github.com/JhonnySMarcelo/github-readme-stats)
 
 ## 📫 How to Reach Me
 
