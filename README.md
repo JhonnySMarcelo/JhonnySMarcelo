@@ -1,5 +1,5 @@
 # Hello! I'm Jhonny <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-<p>I'm a passionate FullStack Developer based in <img src="https://cdn-icons-png.flaticon.com/128/3909/3909370.png" width="13"/> São Paulo, Brazil, with 6+ years of expertise, specializing in back-end development using .NET technologies and front-end using Angular.</p>
+<p>I'm a FullStack Developer based in <img src="https://cdn-icons-png.flaticon.com/128/3909/3909370.png" width="13"/> São Paulo, Brazil, with 6+ years of expertise, specializing in back-end development using .NET technologies and front-end using Angular.</p>
 
 ---
   
